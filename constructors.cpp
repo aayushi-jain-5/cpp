@@ -1,4 +1,4 @@
-// constroctors never needed to be called coz then are called automatically.. 
+// constroctors never needed to be called coz they are called automatically.. 
 //operatoer overloading
 #include<iostream>
 using namespace std;
